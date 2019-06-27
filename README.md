@@ -1,2 +1,3 @@
 # law
-Iaw is based world
+Iaw основан мир
+мне нравитсяjavascriptandcss
